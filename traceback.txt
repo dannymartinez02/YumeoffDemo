@@ -1,0 +1,40 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 39, in script call
+    call ch0_main
+  File "game/prologue.rpy", line 48, in script
+    n_nvl e2m2_b "HOLAAAAA [povname], ¿listo para tu primer día novato? "
+KeyError: 'povname'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 39, in script call
+    call ch0_main
+  File "game/prologue.rpy", line 48, in script
+    n_nvl e2m2_b "HOLAAAAA [povname], ¿listo para tu primer día novato? "
+  File "C:\Users\DELL\Downloads\renpy\renpy\ast.py", line 921, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\DELL\Downloads\renpy\renpy\exports.py", line 1373, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\DELL\Downloads\renpy\renpy\character.py", line 1253, in __call__
+    what = self.prefix_suffix("what", self.what_prefix, what, self.what_suffix)
+  File "C:\Users\DELL\Downloads\renpy\renpy\character.py", line 1172, in prefix_suffix
+    return (sub(prefix) + sub(body) + sub(suffix))
+  File "C:\Users\DELL\Downloads\renpy\renpy\character.py", line 1152, in sub
+    return renpy.substitutions.substitute(s, scope=scope, force=force, translate=translate)[0]
+  File "C:\Users\DELL\Downloads\renpy\renpy\substitutions.py", line 278, in substitute
+    s = formatter.vformat(s, (), kwargs) # type: ignore
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/string.py", line 165, in vformat
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/string.py", line 205, in _vformat
+  File "C:\Users\DELL\Downloads\renpy\renpy\substitutions.py", line 168, in get_field
+    obj, arg_used = super(Formatter, self).get_field(field_name, args, kwargs)
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/string.py", line 270, in get_field
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/string.py", line 227, in get_value
+KeyError: 'povname'
+
+Windows-10-10.0.19041 AMD64
+Ren'Py 8.0.3.22090809
+YumeOff 1.0
+Tue Apr 11 20:15:27 2023
