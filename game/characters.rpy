@@ -1,43 +1,182 @@
 #Definiciones de Tsukasa 
-#POSE NUMERO 1
+#POSE 1
+image tsukasa_angry = "images/tsukasa/tsukasa01.png"
+image tsukasa_stare2 = "images/tsukasa/tsukasa02.png"
+image tsukasa_sorprise = "images/tsukasa/tsukasa03.png"
+image tsukasa_sorprise2 = "images/tsukasa/tsukasa04.png"
+image tsukasa_d4 = "images/tsukasa/tsukasa05.png"
+image tsukasa_sorprise3 = "images/tsukasa/tsukasa06.png"
+image tsukasa_d1 = "images/tsukasa/tsukasa07.png"
+image tsukasa_d2 = "images/tsukasa/tsukasa08.png"
+image tsukasa_ag = "images/tsukasa/tsukasa09.png"
+image tsukasa_Happy2 = "images/tsukasa/tsukasa10.png"
+image tsukasa_p = "images/tsukasa/tsukasa11.png"
+image tsukasa_y2 = "images/tsukasa/tsukasa12.png"
+image tsukasa_d3 = "images/tsukasa/tsukasa13.png"
+image tsukasa_happy = "images/tsukasa/tsukasa14.png"
+image tsukasa_anger = "images/tsukasa/tsukasa15.png"
+image tsukasa_y1 = "images/tsukasa/tsukasa16.png"
+image tsukasa_happy3 = "images/tsukasa/tsukasa17.png"
+image tsukasa_stare = "images/tsukasa/tsukasa18.png"
+image tsukasa_st = "images/tsukasa/tsukasa19.png"
 
-    #Tsukasa nojada
-image tsukasa_ag = "images/tsukasa/tsukasa_angry.png"
-image tsukasa_anger = "images/tsukasa/tsukasa_anger.png"
-image tsukasa_angry = "images/tsukasa/tsukasa_angri.png"
-    #Tsukasa Feliz
-image tsukasa_happy = "images/tsukasa/tsukasaH2.png"
-image tsukasa_Happy2 = "images/tsukasa/tsukasaH.png"
-image tsukasa_p = "images/tsukasa/tsukasaP.png"
-
-    #Tsukasa Yandere
-image tsukasa_y1 = "images/tsukasa/tsukasaY2.png"
-image tsukasa_y2 = "images/tsukasa/tsukasaY1.png"
-
-    #Tsukasa deprimida
-image tsukasa_d1 = "images/tsukasa/tsukasaf3.png"
-image tsukasa_d2 = "images/tsukasa/tsukasaF.png"
-image tsukasa_d3 = "images/tsukasa/tsukasaF2.png"
-image tsukasa_d4 = "images/tsukasa/tsukasaDi.png"
-
-    #Tsukasa seria
-image tsukasa_stare = "images/tsukasa/tsukasaStare.png"
-image tsukasa_st = "images/tsukasa/tsukasa_ds.png"
+#POSE 2
+image tsukasa_hap = "images/tsukasa/tsukasa001.png"
+image tsukasa_blush = "images/tsukasa/tsukasa002.png"
+image tsukasa_sorp = "images/tsukasa/tsukasa003.png"
+image tsukasa_angg = "images/tsukasa/tsukasa004.png"
 
 #Definifiones de Kaori
+#POSE 1
+image kaori_hap = "images/kaori/kaori01.png"
+image kaori_hap2 = "images/kaori/kaori02.png"
+image kaori_hap3 = "images/kaori/kaori03.png"
+image kaori_hap4 = "images/kaori/kaori04.png"
+image kaori_sor = "images/kaori/kaori05.png"
+image kaori_sor2 = "images//kaori/kaori06.png"
+image kaori_stare = "images/kaori/kaori07.png"
+image kaori_di = "images/kaori/kaori08.png"
+image kaori_di2 = "images/kaori/kaori09.png"
+image kaori_di3 = "images/kaori/kaori10.png"
+image kaori_sad1 = "images/kaori/kaori11.png"
+image kaori_sad2 = "images/kaori/kaori12.png"
+image kaori_sad3 = "images/kaori/kaori13.png"
+image kaori_sad4 = "images/kaori/kaori14.png"
+image kaori_sad5 = "images/kaori/kaori15.png"
+
+#POSE 2
+image kao_hap = "images/kaori2/kaori001.png"
+image kao_hap2 = "images/kaori2/kaori002.png"
+image kao_hap3 = "images/kaori2/kaori003.png"
+image kao_hap4 = "images/kaori2/kaori004.png"
+image kao_sorp = "images/kaori2/kaori005.png"
+image kao_sorp2 = "images/kaori2/kaori006.png"
+image kao_star = "images/kaori2/kaori007.png"
+image kao_dii = "images/kaori2/kaori008.png"
+image kao_dii2 = "images/kaori2/kaori009.png"
+image kao_dii3 = "images/kaori2/kaori010.png"
+image kao_sadd1 = "images/kaori2/kaori011.png"
+image kao_sadd2 = "images/kaori2/kaori012.png"
+image kao_sadd3 = "images/kaori2/kaori013.png"
+image kao_sadd4 = "images/kaori2/kaori014.png"
+image kao_sadd5 = "images/kaori2/kaori015.png"
+
+#POSE 3
+image kao_happ = "images/kaori3/kaori0001.png"
+image kao_happ2 = "images/kaori3/kaori0002.png"
+image kao_happ3 = "images/kaori3/kaori0003.png"
+image kao_happ4 = "images/kaori3/kaori0004.png"
+image kao_sorpp = "images/kaori3/kaori0005.png"
+image kao_sorpp2 = "images/kaori3/kaori0006.png"
+image kao_starr = "images/kaori3/kaori0007.png"
+image kao_diii = "images/kaori3/kaori0008.png"
+image kao_diii2 = "images/kaori3/kaori0009.png"
+image kao_diii3 = "images/kaori3/kaori0010.png"
+image kao_saddd1 = "images/kaori2/kaori0011.png"
+image kao_saddd2 = "images/kaori2/kaori0012.png"
+image kao_saddd3 = "images/kaori2/kaori0013.png"
+image kao_saddd4 = "images/kaori2/kaori0014.png"
+image kao_saddd5 = "images/kaori2/kaori0015.png"
+
 
 #Definiciones de Miko
+#POSE 1
+image miko_stare = "images/miko/miko01.png"
+image miko_nerv = "images/miko/miko02.png"
+image miko_nerv2 = "images/miko/miko03.png"
+image miko_nerv4 = "images/miko/miko04.png"
+image miko_happy = "images/miko/miko05.png"
+image miko_sad = "images/miko/miko06.png"
+image miko_sad2 = "images/miko/miko07.png"
+
+#POSE 2
+image miko_nervv2 = "images/miko2/miko001.png"
+image miko_nervv3 = "images/miko2/miko002.png"
+image miko_nervv4 = "images/miko2/miko003.png"
+
+#POSE 3
+image miko_ner1 = "images/miko3/miko0001.png"
+image miko_ner2 = "images/miko3/miko0002.png"
+image miko_ner3 = "images/miko3/miko0003.png"
 
 #Definiciones de Erika
+#POSE 1
+image erika_stare = "images/erika/erika01.png"
+image erika_happy = "images/erika/erika02.png"
+image erika_ang = "images/erika/erika03.png"
+image erika_ang2 = "images/erika/erika04.png"
+image erika_sad = "images/erika/erika05.png"
+image erika_sad2 = "images/erika/erika06.png"
+image erika_happy2 = "images/erika/erika07.png"
+image erika_ang3 = "images/erika/erika08.png"
+image erika_stare2 = "images/erika/erika09.png"
+image erika_stare3 = "images/erika/erika10.png"
+image erika_ang3 = "images/erika/erika11.png"
+image erika_tsun = "images/erika/erika12.png"
+image erika_drunk = "images/erika/erika13.png"
+
+#POSE 2
+image erika_star = "images/erika2/erika001.png"
+image erika_happ = "images/erika2/erika002.png"
+image erika_angg = "images/erika2/erika003.png"
+image erika_angg2 = "images/erika2/erika004.png"
+image erika_sadg = "images/erika2/erika005.png"
+image erika_sadg2 = "images/erika2/erika006.png"
+image erika_happ2 = "images/erika2/erika007.png"
+image erika_angg3 = "images/erika2/erika008.png"
+image erika_star2 = "images/erika2/erika009.png"
+image erika_star3 = "images/erika2/erika010.png"
+image erika_angg3 = "images/erika2/erika011.png"
+image erika_tsun2 = "images/erika2/erika012.png"
+image erika_drunk2 = "images/erika2/erika013.png"
+
+#POSE 3
+image erika_starr = "images/erika3/erika0001.png"
+image erika_hap = "images/erika3/erika0002.png"
+image erika_angr = "images/erika3/erika0003.png"
+image erika_angr2 = "images/erika3/erika0004.png"
+image erika_sadr = "images/erika3/erika0005.png"
+image erika_sadr2 = "images/erika3/erika0006.png"
+image erika_hap2 = "images/erika3/erika0007.png"
+image erika_angr3 = "images/erika3/erika0008.png"
+image erika_starr2 = "images/erika3/erika0009.png"
+image erika_starr3 = "images/erika3/erika0010.png"
+image erika_angr3 = "images/erika3/erika0011.png"
+image erika_tsun3 = "images/erika3/erika0012.png"
+image erika_drunk3 = "images/erika3/erika0013.png"
 
 #Definifiones de Rin
-#POSE NUMERO 2
-image rin_ang = "images/rin2/rinang.png"
-image rin_h = "images/rin2/rinh.png"
-image rin_sorprise = "images/rin2/rins.png"
-image rin_sorprise2 = "images/rin2/rins2.png"
-image rin_scare = "images/rin2/rinscared.png"
-image rin_scare2 = "images/rin2/rinscared2.png"
-image rin_serious = "images/rin2/rinsr.png"
-image rin_stare = "images/rin2/rinstare.png"
-image rin_yandere = "images/rin2/rinY.png"
+#POSE 1
+image rin_ser = "images/rin/rin01.png"
+image rin_hap = "images/rin/rin02.png"
+image rin_sor = "images/rin/rin03.png"
+image rin_star = "images/rin/rin04.png"
+image rin_angry = "images/rin/rin05.png"
+image rin_sor2 = "images/rin/rin06.png"
+image rin_scar = "images/rin/rin07.png"
+image rin_scar2 = "images/rin/rin08.png"
+image rin_yan = "images/rin/rin09.png"
+
+
+#POSE 2
+
+image rin_serious = "images/rin2/rin001.png"
+image rin_h = "images/rin2/rin002.png"
+image rin_sorprise = "images/rin2/rin003.png"
+image rin_stare = "images/rin2/rin004.png"
+image rin_ang = "images/rin2/rin005.png"
+image rin_sorprise2 = "images/rin2/rin006.png"
+image rin_scare = "images/rin2/rins007.png"
+image rin_scare2 = "images/rin2/rin008.png"
+image rin_yandere = "images/rin2/rin009.png"
+
+#POSE 3
+image rin_serr = "images/rin3/rin0001.png"
+image rin_happ = "images/rin3/rin0002.png"
+image rin_sorpre = "images/rin3/rin0003.png"
+image rin_starr = "images/rin3/rin0004.png"
+image rin_angr = "images/rin3/rin0005.png"
+image rin_sorpre2 = "images/rin3/rin0006.png"
+image rin_scarr = "images/rin3/rin0007.png"
+image rin_scarr2 = "images/rin3/rin0008.png"
+image rin_yann = "images/rin3/rin0009.png"

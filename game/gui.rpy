@@ -23,48 +23,54 @@ init python:
 ## The colors of text in the interface.
 
 ## An accent color used throughout the interface to label and highlight text.
-define gui.accent_color = u'#000000'
+define gui.accent_color = u'#b970ee'
 
 ## The color used for a text button when it is neither selected nor hovered.
-define gui.idle_color = u'CC0066'
+define gui.idle_color = u'7987ff'
 
 ## The small color is used for small text, which needs to be brighter/darker to
 ## achieve the same effect.
-define gui.idle_small_color = u'#510000'
+define gui.idle_small_color = u'#FFFFFF'
 
 ## The color that is used for buttons and bars that are hovered.
-define gui.hover_color = u'#e06666'
+define gui.hover_color = u'#66b7e0'
 
 ## The color used for a text button when it is selected but not focused. A
 ## button is selected if it is the current screen or preference value.
-define gui.selected_color = u'#ffffff'
+define gui.selected_color = u'#4d3b94'
 
 ## The color used for a text button when it cannot be selected.
 define gui.insensitive_color = u'#8888887f'
 
 ## Colors used for the portions of bars that are not filled in. These are not
 ## used directly, but are used when re-generating bar image files.
-define gui.muted_color = u'#510000'
-define gui.hover_muted_color = u'#7a0000'
+define gui.muted_color = u'#ff6c6c'
+define gui.hover_muted_color = u'#ff2828'
 
 ## The colors used for dialogue and menu choice text.
-define gui.text_color = u'#000000'
-define gui.interface_text_color = u'#ffffff'
+define gui.text_color = u'#ffffff'
+define gui.interface_text_color = u'#FFFFFF'
 
 
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
-define gui.text_font = "fonts/maian.ttf"
+define gui.text_font = "fonts/Bodo Amat.ttf"
 
 ## The font used for character names.
 define gui.name_text_font = "fonts/maian.ttf"
 
 ## The font used for out-of-game text.
-define gui.interface_text_font = "fonts/Take Coffee.ttf"
+define gui.interface_text_font = "fonts/Bodo Amat.ttf"
 
 ## The size of normal dialogue text.
-define gui.text_size = 33
+define gui.text_size = 27
+define gui.text_kerning = 1.0
+define gui.text_line_spacing = 10
+define gui.text_first_indent = 10
+define gui.text_rest_indent = 10
+#define gui.text_layout = "greedy"
+define gui.text_outlines = [(3, "#000")]
 
 ## The size of character names.
 define gui.name_text_size = 45
@@ -246,7 +252,7 @@ define gui.file_slot_rows = 2
 
 ## The position of the left side of the navigation buttons, relative to the left
 ## side of the screen.
-define gui.navigation_xpos = 60
+define gui.navigation_xpos = 40
 
 ## The vertical position of the skip indicator.
 define gui.skip_ypos = 15
@@ -258,7 +264,7 @@ define gui.notify_ypos = 68
 define gui.choice_spacing = 33
 
 ## Buttons in the navigation section of the main and game menus.
-define gui.navigation_spacing = 65
+define gui.navigation_spacing = 50
 
 ## Controls the amount of spacing between preferences.
 define gui.pref_spacing = 15

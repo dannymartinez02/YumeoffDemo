@@ -1,0 +1,1 @@
+{"package": "com.outsider.demo", "name": "YumeOff", "icon_name": "YumeOff", "version": "1.0", "numeric_version": 1, "orientation": "portrait", "permissions": ["VIBRATE", "INTERNET"], "include_pil": false, "include_sqlite": false, "layout": null, "source": false, "expansion": false, "store": "none", "update_icons": true, "update_always": true, "heap_size": "2"}

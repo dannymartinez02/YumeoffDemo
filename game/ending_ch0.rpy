@@ -3,56 +3,56 @@ label ch5_main:
 
     "AHHHHHHHHHHH, TODOS APARTENSE DE MI LADO, PROBLEMAS EN LA OFICINA"
 
-    "Kaori no parece ser un ser humano pensante justo ahora…"
+    "Kaori no parece ser un ser humano pensante justo ahora..."
 
-    "Auch…"
+    "Auch..."
 
     ku "Eso no fue nada agradable…"
 
-    ka "Ay… Ay… Ay… AHHHHH LOS PAPELES"
+    ka "Ay... Ay... Ay... ¡¡¡AHHHHH LOS PAPELES!!!"
 
-    "Quien diría que Miko no es la única que causa estos accidentes…"
+    "Quien diría que Miko no es la única que causa estos accidentes..."
 
     stop music fadeout 1.0
 
-    "Y un sonido de cerámica suena a lo lejos… 
+    "Y un sonido de cerámica suena a lo lejos...
     Y precisamente la chica de cabello rubio y su acompañante de color verde aparece en escena…"
 
-    mk "Ahhh… Lo siento… Lo siento"
+    mk "Ahhh... Lo siento… Lo siento"
 
     e "Miko, te repetí dos veces que no es tu culpa, todo está bien, definitivamente podrás 
-    demostrarlo cuando me devuelvas el coste de mi taza a final de mes…"
+    demostrarlo cuando me devuelvas el coste de mi taza a final de mes..."
 
     play music "audio/miscal.mp3"
 
-    "Enserio… "
+    "Enserio..."
 
-    ts "Señorita Miko… Señorita Kaori… Señorita Erika… Señorita Rin… A mi oficina por favor…"
+    ts "Señorita Miko… Señorita Kaori… Señorita Erika… Señorita Rin… A mi oficina por favor..."
 
-    ku "Ah, parece que tengo una llamada de mi madr…"
+    ku "Ah, parece que tengo una llamada de mi madr-..."
 
-    ts "Señor Kuta, por favor puede venir…"
+    ts "Señor Kuta, por favor puede venir..."
 
-    "Y mis posibilidades de escape se van por la borda…"
+    "Y mis posibilidades de escape se van por la borda..."
 
     scene tsukasaoff with dissolve
 
     "Al finalizar tras una breve reunión de… 5 minutos termino quedando solo con la superior"
 
-    ts "Escucha eres nuevo lo sé, y estas haciendo un trabajo maravilloso sabes… Esto…"
+    ts "Escucha eres nuevo lo sé, y estas haciendo un trabajo maravilloso sabes... Esto..."
 
-    "Si, seguro dirá que lamenta pedirme lo siguiente…"
+    "Si, seguro dirá que lamenta pedirme lo siguiente..."
 
-    ts "Pero lamento pedirte esto…"
+    ts "Pero lamento pedirte esto..."
 
     "Bingo"
 
     ts "Pero quiero que ayudes a alguna de las chicas aquí, definitivamente el trabajo se acumulo por alguna razón, 
     aun sabiendo que estas fechas ya no son precisamente las mas saturadas de trabajo" 
     
-    ts "Asi que por esa razón quiero que elijas una compañera…"
+    ts "Asi que por esa razón quiero que elijas una compañera..."
 
-    "Entonces… Que debería hacer…"
+    "Entonces… Que debería hacer..."
 
     menu:
         "Ayudar a Kaori":
@@ -74,7 +74,7 @@ label error:
     pause 1.0
 
     
-    "Entonces… Que debería hacer…"
+    "Entonces… Que debería hacer..."
 
     menu:
         "Ayudar a Kaori":
@@ -95,7 +95,7 @@ label error:
 label error2:
     pause 1.0
     
-    "Entonces… Que debería hacer…"
+    "Entonces… Que debería hacer..."
 
     menu:
         "Ayudar a Kaori":
@@ -116,7 +116,7 @@ label error2:
 label error3:
     pause 1.0
     
-    "Entonces… Que debería hacer…"
+    "Entonces… Que debería hacer..."
 
     menu:
         "Ayudar a Kaori":
@@ -137,7 +137,7 @@ label error3:
 label error4:
     pause 1.0
     
-    "Entonces… Que debería hacer…"
+    "Entonces… Que debería hacer..."
 
     menu:
         "Ayudar a Kaori":
@@ -160,28 +160,28 @@ label error5:
     stop music fadeout 1.0
     pause 2.0
     
-    "Eh… No has aprendido a leer…"
+    "Eh… No has aprendido a leer..."
 
     play music "audio/ia1.mp3"
 
     pause 2.0
 
-    "Ahí dice que no puedes pasar…"
+    "Ahí dice que no puedes pasar..."
 
     pause 2.0
 
     "Ah, sigues intentando… Bueno no te juzgo, seguro tus ganas de saber que pasara serán 
-    útiles cuando todo esté listo… Parece que añadí un par de líneas de código erróneas a este sistema…"
+    útiles cuando todo esté listo… Parece que añadí un par de líneas de código erróneas a este sistema..."
 
     pause 2.0
         
-    "Ah, y no te preocupes, recordare quién eres… Asi que te daré una breve advertencia…"
+    "Ah, y no te preocupes, recordare quién eres… Asi que te daré una breve advertencia..."
 
     pause 2.0
 
-    "Si no vuelves, yo hare que lo hagas…"
+    "Si no vuelves, yo hare que lo hagas..."
 
-    "No importa que tan lejos intentes ir, te vigilare, asi que prométeme que volverás…"
+    "No importa que tan lejos intentes ir, te vigilare, asi que prométeme que volverás..."
 
     menu:
         "Si...":
@@ -195,9 +195,9 @@ label yesu:
 
     "Bien, es la respuesta que esperaba"
 
-    "No decepcionas nunca…"
+    "No decepcionas nunca..."
 
-    "Asi que esto, es todo mientras tanto, vuelve pronto…"
+    "Asi que esto, es todo mientras tanto, vuelve pronto..."
 
 return
 
@@ -214,7 +214,7 @@ label nou:
 
     "Parece que alguien no comprendido que esto no es una broma"
     
-    "No importa quien seas… Te encontrare… Asi que…"
+    "No importa quien seas... Te encontrare... Asi que..."
 
     "Eso es todo, te espero"
 
@@ -222,12 +222,12 @@ return
 
 label grabacion:
     
-    "Parece que alguien no comprendido que esto no es una broma, no sé cuántas personas estén viendo esto…"
+    "Parece que alguien no comprendido que esto no es una broma, no sé cuántas personas estén viendo esto..."
 
     "Mientras lo transmites ¿no?"
 
-    "Pero ellos lo recordaran, jaja…"
+    "Pero ellos lo recordaran, jaja..."
 
-    "Asi que esto, es todo mientras tanto, vuelve pronto…"
+    "Asi que esto, es todo mientras tanto, vuelve pronto..."
 
 return

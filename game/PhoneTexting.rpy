@@ -141,7 +141,7 @@ screen nvl_phonetext(dialogue):
                                 text_align 1.0
                                 xpos -580
                             else:
-                                color "#000"
+                                color "#FFF"
 
                                 
                             id d.what_id

@@ -3,8 +3,8 @@
 While running game code:
   File "game/script.rpy", line 39, in script call
     call ch0_main
-  File "game/prologue.rpy", line 48, in script
-    n_nvl e2m2_b "HOLAAAAA [povname], ¿listo para tu primer día novato? "
+  File "game/prologue.rpy", line 482, in script
+    ka "Bien bien, será otro día... Pero duerme [povname] no sabes que puede pasar de camino a tu trabajo, nos
 KeyError: 'povname'
 
 -- Full Traceback ------------------------------------------------------------
@@ -12,8 +12,8 @@ KeyError: 'povname'
 Full traceback:
   File "game/script.rpy", line 39, in script call
     call ch0_main
-  File "game/prologue.rpy", line 48, in script
-    n_nvl e2m2_b "HOLAAAAA [povname], ¿listo para tu primer día novato? "
+  File "game/prologue.rpy", line 482, in script
+    ka "Bien bien, será otro día... Pero duerme [povname] no sabes que puede pasar de camino a tu trabajo, nos
   File "C:\Users\DELL\Downloads\renpy\renpy\ast.py", line 921, in execute
     renpy.exports.say(who, what, *args, **kwargs)
   File "C:\Users\DELL\Downloads\renpy\renpy\exports.py", line 1373, in say
@@ -37,4 +37,4 @@ KeyError: 'povname'
 Windows-10-10.0.19041 AMD64
 Ren'Py 8.0.3.22090809
 YumeOff 1.0
-Tue Apr 11 20:15:27 2023
+Sun May  7 20:33:50 2023

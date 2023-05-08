@@ -23,21 +23,27 @@ label ch3_main:
 
 
 label rinvar1:
-    scene kutaroom with dissolve
-    "Tercer día, llegó con más que tiempo para poder empezar a terminar las labores que debía, como
-    siempre es un día movido, sin embargo, puedo mantener la compostura lo suficiente para apoyar"
+    scene genoff with dissolve
 
-    "Tanto a la Superior Tsukasa, Kaori y Miko, tres cosas a la vez por un día, deberían darme un
+    play music "audio/dlife.mp3"
+    "Tercer día, llegó con más que tiempo para poder empezar a terminar las labores que debía, como
+    siempre es un día movido, sin embargo, puedo mantener la compostura lo suficiente para apoyar."
+
+    "Tanto a la Superior Tsukasa, Kaori y Miko, tres cosas a la vez por un día."
+    
+    ku "Deberían darme un
     aumento..."
 
-    "Caminando por las partes más oscuras de un almacén, realmente me encuentro con cosas muy
-    especiales, entre ellas diversos pinceles que seguro son de Kaori"
+    scene woff with dissolve
+
+    "Caminando por las zonas de un almacén, me encuentro con cosas muy
+    especiales, entre ellas diversos pinceles que seguro son de Kaori."
     
     "y una taza de café algo sucia, y
     otra taza también del mismo tamaño, pero rota..." 
     
     "Poco a poco esos pequeños detalles empiezan a
-    familiarizarme con la gente en este lugar"
+    familiarizarme con la gente en este lugar."
 
 
 
@@ -104,23 +110,25 @@ label rinvar2:
 
     play music "audio/dlife.mp3"
     "Tercer día, llegó con más que tiempo para poder empezar a terminar las labores que debía, como
-    siempre es un día movido, sin embargo, puedo mantener la compostura lo suficiente para apoyar"
+    siempre es un día movido, sin embargo, puedo mantener la compostura lo suficiente para apoyar."
 
-    "Tanto a la Superior Tsukasa, Kaori y Miko, tres cosas a la vez por un día, deberían darme un
+    "Tanto a la Superior Tsukasa, Kaori y Miko, tres cosas a la vez por un día."
+    
+    ku "Deberían darme un
     aumento..."
 
     scene woff with dissolve
 
-    "Caminando por las partes más oscuras de un almacén, realmente me encuentro con cosas muy
-    especiales, entre ellas diversos pinceles que seguro son de Kaori"
+    "Caminando por las zonas de un almacén, me encuentro con cosas muy
+    especiales, entre ellas diversos pinceles que seguro son de Kaori."
     
     "y una taza de café algo sucia, y
     otra taza también del mismo tamaño, pero rota..." 
     
     "Poco a poco esos pequeños detalles empiezan a
-    familiarizarme con la gente en este lugar"
+    familiarizarme con la gente en este lugar."
 
-    ri "Mmmmm"
+    ri "Mmmmm..."
 
     "Escucho un raro quejido viniendo de una parte del almacén, pero intento ignorarlo..."
 
@@ -306,21 +314,27 @@ label rinvar2:
 return
 
 label rinvar3:
-    scene kutaroom with dissolve
-    "Tercer día, llegó con más que tiempo para poder empezar a terminar las labores que debía, como
-    siempre es un día movido, sin embargo, puedo mantener la compostura lo suficiente para apoyar"
+    scene genoff with dissolve
 
-    "Tanto a la Superior Tsukasa, Kaori y Miko, tres cosas a la vez por un día, deberían darme un
+    play music "audio/dlife.mp3"
+    "Tercer día, llegó con más que tiempo para poder empezar a terminar las labores que debía, como
+    siempre es un día movido, sin embargo, puedo mantener la compostura lo suficiente para apoyar."
+
+    "Tanto a la Superior Tsukasa, Kaori y Miko, tres cosas a la vez por un día."
+    
+    ku "Deberían darme un
     aumento..."
 
-    "Caminando por las partes más oscuras de un almacén, realmente me encuentro con cosas muy
-    especiales, entre ellas diversos pinceles que seguro son de Kaori"
+    scene woff with dissolve
+
+    "Caminando por las zonas de un almacén, me encuentro con cosas muy
+    especiales, entre ellas diversos pinceles que seguro son de Kaori."
     
     "y una taza de café algo sucia, y
     otra taza también del mismo tamaño, pero rota..." 
     
     "Poco a poco esos pequeños detalles empiezan a
-    familiarizarme con la gente en este lugar"
+    familiarizarme con la gente en este lugar."
 
 
 

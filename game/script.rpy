@@ -21,18 +21,18 @@ label splash3:
 label start:
 
 
-    define pov = Character ("[povname]", color="#FF0000")
-    define ka = Character("Kaori", who_color="#EA899A")
-    define ts = Character("Tsukasa", who_color= "#7d2181")
-    define mk = Character("Miko", who_color= "#568203")
-    define r = Character("Rin", who_color= "#DC143C")
-    define e = Character("Erika", who_color= "#ff7700")
-    define ku = Character("Kuta", who_color= "#3b83bd")
+    define pov = Character ("[povname]", color="#5900ff")
+    define ka = Character("Kaori", who_color="#ffbfef")
+    define ts = Character("Tsukasa", who_color= "#ecaeff")
+    define mk = Character("Miko", who_color= "#a6ff00")
+    define r = Character("Rin", who_color= "#ff2853")
+    define e = Character("Erika", who_color= "#ffFF00")
+    define ku = Character("Kuta", who_color= "#84c6fc")
 
-    define t = Character("???", who_color= "#7d2181")
-    define m = Character("???", who_color= "#568203")
-    define ri = Character("???", who_color= "#DC143C")
-    define ek = Character("???", who_color= "#ff7700")
+    define t = Character("???", who_color= "#ecaeff")
+    define m = Character("???", who_color= "#a6ff00")
+    define ri = Character("???", who_color= "#ff2853")
+    define ek = Character("???", who_color= "#ffff00")
 
     $ chapter = 0
 
